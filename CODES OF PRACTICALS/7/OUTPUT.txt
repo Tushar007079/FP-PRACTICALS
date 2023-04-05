@@ -1,0 +1,88 @@
+                   .%;888:8898898:                tushar@tushar-asustufgamingf15fx506lifx566li
+                 x;XxXB%89b8:b8%b88:              --------------------------------------------
+              .8Xxd                8X:.           OS: Garuda Linux x86_64
+            .8Xx;                    8x:.         Host: ASUS TUF Gaming F15 FX506LI_FX566LI 1.0
+          .tt8x          .d            x88;       Kernel: 6.2.8-zen1-1-zen
+       .@8x8;          .db:              xx@;     Uptime: 24 mins
+     ,tSXX°          .bbbbbbbbbbbbbbbbbbbB8x@;    Packages: 1467 (pacman)[stable]
+   .SXxx            bBBBBBBBBBBBBBBBBBBBbSBX8;    Shell: fish 3.6.1
+ ,888S                                     pd!    Display: 1920x1080
+8X88/                                       q     DE: KDE Plasma 5.27.3
+8X88/                                             WM: KWin (X11)
+GBB.                                              WM Theme: Sweet-Dark
+ x%88        d888@8@X@X@X88X@@XX@@X@8@X.          Theme: kvantum-dark Sweet [Plasma], Sweet-Dark [GTK2/3/4]
+   dxXd    dB8b8b8B8B08bB88b998888b88x.           Icons: BeautyLine [QT], BeautyLine [GTK2/3/4]
+    dxx8o                      .@@;.              Terminal: konsole 22.12.3
+      dx88                   .t@x.                Terminal Font: FiraCode Nerd Font Mono 12
+        d:SS@8ba89aa67a853Sxxad.                  CPU: Intel(R) Core(TM) i5-10300H (8) @ 4.5 GHz
+          .d988999889889899dd.                    GPU: Intel UHD Graphics
+                                                  GPU: NVIDIA GeForce GTX 1650 Ti Mobile
+                                                  Memory: 2.74 GiB / 15.46 GiB
+
+                                                  ████████████████████████
+                                                  ████████████████████████
+
+ ╭─tushar@tushar in ~/Documents/FP/7 via  v3.10.10 
+ ╰─λ python 1.py 
+Enter a File Name : marvel.txt
+Character Count :  1150
+Words Count :  155
+Line Count :  101
+
+ ╭─tushar@tushar in ~/Documents/FP/7 via  v3.10.10 took 10s
+ ╰─λ python 2.py 
+
+ ╭─tushar@tushar in ~/Documents/FP/7 via  v3.10.10 took 21ms
+ ╰─λ python 3.py 
+Swachh Bharat Mission
+
+Enter Your Suggestion : 
+● Waste or garbage should not be thrown anywhere, but only in trash bins.
+Enter Another Suggestion?[Y/N] :Y
+Enter Your Suggestion : 
+● Controlling the use of plastic bags.
+● Use recycled and eco-friendly products like paper or jute bags.Enter Another Suggestion?[Y/N] :N
+ERROR : Invalid Input!
+
+ ╭─tushar@tushar in ~/Documents/FP/7 via  v3.10.10 took 2m11s
+ ╰─λ python 3.py
+Swachh Bharat Mission
+
+Enter Your Suggestion : 
+● Waste or garbage should not be thrown anywhere, but only in trash bins.
+Enter Another Suggestion?[Y/N] :Y
+Enter Your Suggestion : 
+● Controlling the use of plastic bags.
+Enter Another Suggestion?[Y/N] :N
+
+ ╭─tushar@tushar in ~/Documents/FP/7 via  v3.10.10 took 29s
+ ╰─λ python 3.py
+Swachh Bharat Mission
+
+Enter Your Suggestion : 
+● Don't litter public places.
+Enter Another Suggestion?[Y/N] :askjbkjabsf
+ERROR : Invalid Input!
+
+ ╭─tushar@tushar in ~/Documents/FP/7 via  v3.10.10 took 20s
+ ╰─λ python 3.py
+Swachh Bharat Mission
+
+Enter Your Suggestion : 
+Waste or garbage should not be thrown anywhere, but only in trash bins.
+Enter Another Suggestion?[Y/N] :Y
+Enter Your Suggestion : 
+Controlling the use of plastic bags.
+Enter Another Suggestion?[Y/N] :N
+
+ ╭─tushar@tushar in ~/Documents/FP/7 via  v3.10.10 took 17s
+ ╰─λ python 3.py
+Swachh Bharat Mission
+
+Enter Your Suggestion : 
+Don't litter public places.
+Enter Another Suggestion?[Y/N] :askjfb
+ERROR : Invalid Input!
+
+ ╭─tushar@tushar in ~/Documents/FP/7 via  v3.10.10 took 17s
+ ╰─λ 
